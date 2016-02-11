@@ -1,7 +1,7 @@
-name: PeterGasca
+name: Peter Gasca
 favicon: null
-layout_spectrum: 0.7981701935641468
-typography_spectrum: 0.8869109724182636
+layout_spectrum: 0.97327
+typography_spectrum: 0.35339
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.580139865167439
   lightness: 0.1301641606260091
   saturation: 0.5292262847069651
-  rhythmicContrast: 0.4839639014098793
+  rhythmicContrast: 0.5
 purpose: []
