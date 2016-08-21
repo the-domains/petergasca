@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Me.
+    url: www.petergasca.com
+    type: external
 favicon: null
 title: Hello
 description: 'Try, or die not knowing.'
